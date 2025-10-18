@@ -117,5 +117,3 @@ git push origin main
 | `docker-compose.yml` | ✅ YES | Docker config |
 
 ***
-
-Your `.env.example` file is now ready to push to GitHub, and others can use it as a template by copying it to `.env` and filling in their own credentials! This is the standard practice for open-source projects that require API keys and secrets.
